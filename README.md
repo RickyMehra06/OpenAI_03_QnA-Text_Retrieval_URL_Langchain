@@ -1,0 +1,1 @@
+# OpenAI_03_QnA-Text_Retrieval_URL_Langchain
